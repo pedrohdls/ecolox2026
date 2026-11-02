@@ -2,9 +2,8 @@ Este projeto foi inicialmente desenvolvido na plataforma Figma, utilizando as fe
 
 Disponível nos links a seguir, respectivamente:
 
-Figma Make – ECOLOX2026
-
-Figma Design – ECOLOX2025
+[Figma Make – ECOLOX2026](https://www.figma.com/make/WUmEUADZEDIxK3DdQhgb6H/ECOLOX2026?t=yxxvFG9nVtmV9ZO5-1)
+[Figma Design – ECOLOX2025](https://www.figma.com/design/05ZgpAyDRyXFXRym9UyuKS/ECOLOX2025?node-id=0-1&t=Q8Zh6qoNYWrfeL0Y-1)
 
 Para rodar o código
 
